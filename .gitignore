@@ -1,0 +1,18 @@
+# Datasets — download separately (see README for links)
+data/*
+!data/.gitkeep
+
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
